@@ -102,6 +102,47 @@ h3 {
 }
 
 
+/* SEND MESSAGE */
+
+.success-msg {
+    height: 81vh;
+}
+
+.success-msg img {
+    width: 31rem;
+}
+
+.msg {
+    height: 100%;
+    justify-content: center;
+}
+
+.msg h1 {
+    font-size: 3rem;
+}
+
+.msg p {
+    font-weight: 500;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.back-arrow {
+    background: var(--ligthBlue);
+    color: var(--darkBlue);
+    font-size: 2rem;
+    text-decoration: none;
+    align-items: center;
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 1.3rem;
+}
+
+.back-arrow .img-msg {
+    width: 4rem;
+}
+
+
 /* HOME */
 
 .info {
