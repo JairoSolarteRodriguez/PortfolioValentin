@@ -291,7 +291,15 @@ h3 {
     background-size: cover;
 }
 
+.todo-list{
+    background-image: url('/img/proyectos/todo-list.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.colaborations p a{
+    text-decoration: none;
+}
 /* FORM */
 
 .contact {
